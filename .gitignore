@@ -1,0 +1,4 @@
+__pycache__/
+*.pkl
+.env
+app_backup_v1.py
